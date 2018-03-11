@@ -1,5 +1,5 @@
-# [Agro-ProTechtor]
-> *"A Web Platform to enable the farmers of today."*
+# Agro-ProTechtor
+> *"Revolutionizing the "Fields" of Agriculture using Technology.*
 
 
 ![](.github/logo.png)
@@ -25,22 +25,32 @@ Agro-ProTechtor uses Matlab as well so make sure you have Matlab on your system.
 
 
 
-### Requrirements
+### Requirements
 The only thing you do need is a device with web connectivity.
 
 ### Usage
 Once you have the website running on you favourite browser 
 
 Register yourself (NGO/Farmer)or Login with an existing account.
+
 Farmers get access to the following services:
-1.Live Weather Update(Upto 10 days)
+
+1.Live Weather Details and 10-day Forecast
+
 2.Plant Disease Detection
+
 3.Soil Type Detector
+
 4.Fertilizer Information
 
+5.A Offline access to information via messaging.
+
 Ngo's get the following functionalities:
-1.set up a paytm channel for CrowdSourced Donations.
+
+1.Set up a paytm channel for CrowdSourced Donations.
+
 2.Create and Publish Events/Drives to get more volunteers.
+
 3.Raise issues to create awareness amongst the Youth who in-turn can come up with smart solutions. 
 
 ### Examples
